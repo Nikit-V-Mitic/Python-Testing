@@ -5,7 +5,7 @@ naturally, be credited and praised for their work and will, in general, be free 
 I hope this repo will be useful for others at the beginning of their journey into Python for DS/A, and that those more experienced might find some enjoyment in
 contributing to a large store of knowledge. 
 
-As the purpose of this project is educational, there is no strict end-goal in terms of functionality. As such, kindly ensure that any pull requests made conform
+As the purpose of this project is educational, there is no strict end-goal in terms of functionality. As such, kindly ENSURE that any pull requests made conform
 to the general principles of 1) clarity, 2) educational-value, and 3) commentary -- code with explanatory comments is much appreciated. 
 
 Thank you for your time in reading or contributing.
