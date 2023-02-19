@@ -1,4 +1,4 @@
-In the Python-Testing repository, my goal is to learn and build on my own wealth of knowledge regarding the necessary skills for data science/analysis in Python, 
+In the Studies in Python repository, my goal is to learn and build on my own wealth of knowledge regarding the necessary skills for data science/analysis in Python, 
 with a focus on understanding how libraries essential to the above work on their own and in concert, and share what I learn. Sources I find useful to this end will, 
 naturally, be credited and praised for their work and will, in general, be free (though Coursera is a great source too).
 
